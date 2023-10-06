@@ -1,5 +1,8 @@
 # React + Vite + TailwindCSS
 
+To test this application redirect to:
+[Nike Landing Page](https://nike-landing-page-static.netlify.app/)
+
 ![Nike Landing Page](https://github.com/SharathHebbar/Nike-landing-page/blob/main/temp/1.png)
 
 Steps to run:
