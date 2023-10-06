@@ -1,8 +1,11 @@
 # React + Vite + TailwindCSS
 
+![Nike Landing Page](https://github.com/SharathHebbar/Nike-landing-page/blob/main/temp/1.png)
+
 Steps to run:
 - git clone https://github.com/SharathHebbar/Nike-landing-page.git
 - npm run dev
+- Navigate to http://localhost:5173/
 
 Steps to create a new project:
 - npm create vite@latest my-project -- --template react
